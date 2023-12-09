@@ -9,6 +9,9 @@ function App() {
         <p>
           magister stuff woo!!
         </p>
+        <h1>
+          TEST EDIT FROM LAPTOP
+        </h1>
       </header>
     </div>
   );
